@@ -1,3 +1,3 @@
 # Parth-
-This is my repository.
+This is my first repository.
 Author - Parth Pingle
