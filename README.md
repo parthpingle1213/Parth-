@@ -1,3 +1,3 @@
 # Parth-
 This is my repository.
-Auther - Parth Pingle
+Author - Parth Pingle
